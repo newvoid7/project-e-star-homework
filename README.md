@@ -1,3 +1,6 @@
+# BGFX based E-star project homework @Netease
+## Fuck it
+# 原始文档
 ## 前置需求
 
 1. 安装Visual Studio 2022（或2019）
